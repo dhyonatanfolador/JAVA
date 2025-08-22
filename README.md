@@ -6,7 +6,7 @@ Este repositório reúne os principais projetos desenvolvidos durante o curso t�
 
 ## 📂 Banco de Dados
 
-Projetos voltados à manipulação de dados e integração com sistemas de persistência, com foco no uso de **JDBC**, **classes DAO** e modelagem relacional.
+Projetos voltados à manipulação de dados e integração com sistemas de persistência, com foco no uso de **classes DAO** e modelagem relacional.
 
 ### 🎬 Banco de Dados de Filmes
 API desenvolvida no componente de **Programação de Aplicativos**, com funcionalidades para gerenciamento de um catálogo de filmes.
@@ -16,7 +16,7 @@ API desenvolvida no componente de **Programação de Aplicativos**, com funciona
 - Pesquisa por título ou categoria
 - Atualização e exclusão de registros
 
-Este projeto introduz conceitos fundamentais de persistência de dados e estruturação de APIs RESTful conectadas a bancos de dados.
+Este projeto introduz conceitos fundamentais de persistência de dados e estruturação de APIs conectadas a bancos de dados.
 
 ### 🧑‍🏫 Banco de Entidades
 Modelo de sistema que representa entidades como **Pessoa**, **Estudante**, **Professor** e **Turma**, utilizando classes DAO para operações básicas.
@@ -35,7 +35,7 @@ Compilado de atividades realizadas ao longo das aulas, incluindo:
 
 - Exercícios práticos por conteúdo
 - Avaliações técnicas
-- Situações de Aprendizagem (SA) com desafios simulados
+- Situações de Aprendizagem (SA)
 
 Esta pasta documenta o progresso acadêmico e a aplicação prática dos conceitos abordados em sala.
 
