@@ -47,7 +47,7 @@ Projeto integrador desenvolvido ao final de um dos módulos do curso, aplicando 
 
 **Destaques:**
 - Aplicação web local construída com **Spring Initializr**
-- API RESTful com operações completas (CRUD)
+- API com operações completas
 - Integração com banco de dados relacional
 - Arquitetura modular, escalável e orientada a boas práticas
 
@@ -55,4 +55,4 @@ Este projeto representa a síntese técnica do curso, demonstrando domínio em b
 
 ---
 
-> 💡 *Este repositório é uma vitrine técnica do meu aprendizado e evolução como desenvolvedor. Fique à vontade para explorar os projetos e acompanhar meu progresso!*
+> 💡 *Este repositório é uma visão técnica do meu aprendizado e evolução como desenvolvedor. Fique à vontade para explorar os projetos e acompanhar meu progresso!*
